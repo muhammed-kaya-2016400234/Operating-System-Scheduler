@@ -1,0 +1,11 @@
+instr1 10
+instr2 60
+instr3 80
+instr4 100
+instr5 10
+instr6 60
+instr7 100
+instr8 20
+instr9 100
+instr10 60
+exit 10
